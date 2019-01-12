@@ -4,7 +4,7 @@
 
 A voxel model containing ~100 layers reconstructed from 25 sections (visualized in Mathematica):
 
-<img src="http://i.imgur.com/AdwVArB.png">
+<img src="https://i.imgur.com/AdwVArB.png">
 
 ## How do I run the procedure?
 
