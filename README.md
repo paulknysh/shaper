@@ -10,7 +10,7 @@ A voxel model containing ~100 layers reconstructed from 25 sections (visualized 
 
 In `main()` function of `shaper.cpp` user needs to specify values of `n` (number of input sections) and `m` (number of output subsections between each pair of consecutive sections). Here is the schematic:
 
-<img src="http://i.imgur.com/ajUDo3o.png">
+<img src="http://i.imgur.com/65NgGKB.png">
 
 Input sections must be PNG images named as "1.png", "2.png" etc and placed in the same directory with `shaper.cpp`. A code produces sets of subsections (also PNG images) between each pair of consecutive sections. The subsections are saved in the same directory and named as "1_1.png", "1_2.png" etc.
 
