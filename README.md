@@ -1,8 +1,12 @@
 # shaper: A C++ code for 3D reconstruction from parallel 2D sections
 
-## An example
+## Demos
 
-A voxel model containing ~100 layers reconstructed from 25 sections (visualized in Mathematica):
+* A voxel model that interpolates between lightning and star shapes (visualized in Mathematica):
+
+<img src="http://i.imgur.com/arVf4Ct.png">
+
+* A voxel model containing ~100 layers reconstructed from 25 sections (visualized in Mathematica):
 
 <img src="http://i.imgur.com/cJqGgUL.png">
 
