@@ -2,7 +2,7 @@
 
 ## Demos
 
-* A voxel model that interpolates between lightning and star shapes (visualized in Mathematica):
+* A voxel model that reconstructs the volume between lightning and star shapes (visualized in Mathematica):
 
 <img src="http://i.imgur.com/arVf4Ct.png">
 
