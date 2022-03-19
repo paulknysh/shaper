@@ -31,6 +31,4 @@ STB public domain libraries: https://github.com/nothings/stb
 
 ## Author
 
-Paul Knysh (paul.knysh@gmail.com)
-
-Feel free to email me if you have any questions or comments.
+Paul Knysh
